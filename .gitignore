@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 .env
 backend/.env
-src/lib/twilio-config.ts
+
